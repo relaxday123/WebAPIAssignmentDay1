@@ -61,7 +61,7 @@ namespace b1.Services
             try
             {
                 TaskContext.TaskModels.RemoveAll(item => ids.Contains(item.Id));
-                
+
                 return true;
             }
             catch

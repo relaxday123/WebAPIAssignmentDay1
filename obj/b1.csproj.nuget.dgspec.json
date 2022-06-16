@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toi\\Desktop\\nash\\api\\b1\\b1.csproj": {}
+    "I:\\My Drive\\nash\\asp.net core Web API\\b1\\WebAPIAssignmentDay1\\b1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toi\\Desktop\\nash\\api\\b1\\b1.csproj": {
+    "I:\\My Drive\\nash\\asp.net core Web API\\b1\\WebAPIAssignmentDay1\\b1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toi\\Desktop\\nash\\api\\b1\\b1.csproj",
+        "projectUniqueName": "I:\\My Drive\\nash\\asp.net core Web API\\b1\\WebAPIAssignmentDay1\\b1.csproj",
         "projectName": "b1",
-        "projectPath": "C:\\Users\\toi\\Desktop\\nash\\api\\b1\\b1.csproj",
-        "packagesPath": "C:\\Users\\toi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toi\\Desktop\\nash\\api\\b1\\obj\\",
+        "projectPath": "I:\\My Drive\\nash\\asp.net core Web API\\b1\\WebAPIAssignmentDay1\\b1.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "I:\\My Drive\\nash\\asp.net core Web API\\b1\\WebAPIAssignmentDay1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\toi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

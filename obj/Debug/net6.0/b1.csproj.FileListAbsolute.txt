@@ -25,3 +25,30 @@ C:\Users\toi\Desktop\nash\api\b1\obj\Debug\net6.0\refint\b1.dll
 C:\Users\toi\Desktop\nash\api\b1\obj\Debug\net6.0\b1.pdb
 C:\Users\toi\Desktop\nash\api\b1\obj\Debug\net6.0\b1.genruntimeconfig.cache
 C:\Users\toi\Desktop\nash\api\b1\obj\Debug\net6.0\ref\b1.dll
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\bin\Debug\net6.0\appsettings.Development.json
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\bin\Debug\net6.0\appsettings.json
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\bin\Debug\net6.0\b1.exe
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\bin\Debug\net6.0\b1.deps.json
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\bin\Debug\net6.0\b1.runtimeconfig.json
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\bin\Debug\net6.0\b1.dll
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\bin\Debug\net6.0\b1.pdb
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\obj\Debug\net6.0\b1.csproj.AssemblyReference.cache
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\obj\Debug\net6.0\b1.GeneratedMSBuildEditorConfig.editorconfig
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\obj\Debug\net6.0\b1.AssemblyInfoInputs.cache
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\obj\Debug\net6.0\b1.AssemblyInfo.cs
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\obj\Debug\net6.0\b1.csproj.CoreCompileInputs.cache
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\obj\Debug\net6.0\b1.MvcApplicationPartsAssemblyInfo.cs
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\obj\Debug\net6.0\b1.MvcApplicationPartsAssemblyInfo.cache
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\obj\Debug\net6.0\staticwebassets.build.json
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\obj\Debug\net6.0\staticwebassets.development.json
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\obj\Debug\net6.0\scopedcss\bundle\b1.styles.css
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\obj\Debug\net6.0\b1.csproj.CopyComplete
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\obj\Debug\net6.0\b1.dll
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\obj\Debug\net6.0\refint\b1.dll
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\obj\Debug\net6.0\b1.pdb
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\obj\Debug\net6.0\b1.genruntimeconfig.cache
+I:\My Drive\nash\asp.net core Web API\b1\WebAPIAssignmentDay1\obj\Debug\net6.0\ref\b1.dll

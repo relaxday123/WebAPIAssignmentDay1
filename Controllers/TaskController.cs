@@ -5,7 +5,7 @@ using Modal;
 
 namespace b1.Controllers;
 
-[Route("[controller]")]
+[Route("task")]
 public class TaskController : ControllerBase
 {
     private ITaskService _taskService;
